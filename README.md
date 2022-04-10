@@ -13,14 +13,19 @@ Para cada línea de entrada, el programa generar la salida redondeada a un decim
 ## Sample Input:
 
 3 30
+
 10 20
+
 5 25
+
 0 0
 
 ## Sample Output:
 
 3,6
+
 62,4
+
 12,4
 
 ## Realizado por:
